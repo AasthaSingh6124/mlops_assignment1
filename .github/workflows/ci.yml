@@ -3,7 +3,7 @@ name: MLops CI - Run models
 on:
   push:
     branches:
-      - kernelridge   # 👈 workflow triggers only when you push to kernelridge branch
+      - Kernelridge   # 👈 workflow triggers only when you push to kernelridge branch
 
 jobs:
   run-models:
