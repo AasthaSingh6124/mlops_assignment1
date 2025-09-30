@@ -1,5 +1,4 @@
-# MLOps Assignme
-nt 1
+# MLOps Assignment 1
 
 ## Setup
 1. Create and activate a conda environment:
@@ -23,7 +22,7 @@ The work is structured across three branches:
 
 ---
 
-## ⚙️Setup Instructions
+## Setup Instructions
 
 1. **Create and activate conda environment**
    ```bash
